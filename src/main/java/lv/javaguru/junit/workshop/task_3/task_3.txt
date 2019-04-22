@@ -1,0 +1,23 @@
+Play with mocks!
+
+1. Create mock object.
+
+2. Invoke mock methods and check returned results for newly created mock.
+
+3. Stub mock methods.
+
+4. Invoke mock methods and check returned results.
+
+5. Verify method invocation count.
+
+6. Verify zero interactions.
+
+7. Verify method and mock invocation order.
+
+8. Verify method arguments. Standard argument matchers.
+
+9. Create custom argument matchers.
+
+10. Argument captor.
+
+11. JUnit Mockito Runner.

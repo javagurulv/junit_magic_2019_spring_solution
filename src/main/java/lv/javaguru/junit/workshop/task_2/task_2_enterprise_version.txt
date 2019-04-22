@@ -1,0 +1,13 @@
+FizzBuzz kata Enterprise edition.
+
+Rules are the same.
+
+Create FizzBuzzRule interface, this interface will
+represent one rule.
+
+Decompose solution, move each rule to separate classes.
+
+And then compose hole solution
+
+injecting each rule to FizzBuzzEnterprise class and execute
+them in proper order.
